@@ -1,0 +1,12 @@
+sonar.projectkey-my-python-app
+sonar. projectNane=MyPython App
+sonar. projectVersion=1.0
+
+#Source code
+sonar.sources=,
+
+#Encoding
+sonar. sourceEncoding=UTF-8
+
+#For Python sonar
+sonar.languages=py
